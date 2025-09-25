@@ -2,7 +2,7 @@
 組員:邱翊銨 顏莉諭
 ## 介紹
 python投票系統
-[DEMO影片連結](https://www.youtube.com/watch?v=zr6ayi5nYOs)
+[DEMO影片連結](https://www.youtube.com/watch?v=zr6ayi5nYOs) (若寫無法撥放請f5重新整理)
 
 ### 簡介
 使用 Python實作的投票系統，Server 建立投票（投票主題、投
