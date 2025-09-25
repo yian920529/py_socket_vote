@@ -5,15 +5,15 @@ python投票系統
 [DEMO影片連結](https://www.youtube.com/watch?v=zr6ayi5nYOs) (若寫無法撥放請f5重新整理)
 
 ### 簡介
-使用 Python實作的投票系統，Server 建立投票（投票主題、投
-票選項），Clients 加入投票。其中透過PyQt6 實作 GUI、Socket 進行 
-TCP連線、 Threading 服務各 Client。與一般投票系統不同之處在於，不
-限制 Clients投票次數，直到 Server 結束投票，因此相較之下是個較自由
-的投票系統，適合日常使用
+使用 Python實作的投票系統，Server 建立投票（投票主題、投票選項）<br>
+Clients 加入投票。其中透過PyQt6 實作 GUI、Socket 進行 TCP連線<br>
+Threading 服務各 Client<br>
+與一般投票系統不同之處在於不限制 Clients投票次數<br>
+因此相較之下是個較自由的投票系統，適合日常使用
 
 ### 構想
-架構：Client / Server
-語言：Python
+架構：Client / Server<br>
+語言：Python<br>
 GUI：PyQt6
 
 ### 設計重點
